@@ -44,19 +44,19 @@ document.addEventListener("DOMContentLoaded", function () {
 const styles = {
     gyaru: {
         tagline: "Bold looks. Big energy. Your own style.",
-        image: "images/home-gyaru.jpg"
+        image: "Marahuyo-Studio/images/home-gyaru.jpg"
     },
     filipiniana: {
         tagline: "A modern Pinay look with a classic touch.",
-        image: "images/home-filipiniana.jpg"
+        image: "Marahuyo-Studio/images/home-filipiniana.jpg"
     },
     skool: {
         tagline: "Playful school-inspired looks, reimagined.",
-        image: "images/home-skool.jpg"
+        image: "Marahuyo-Studio/images/home-skool.jpg"
     },
     gengsta: {
         tagline: "Street style with confidence and attitude.",
-        image: "images/home-gengsta.jpg"
+        image: "Marahuyo-Studio/images/home-gengsta.jpg"
     }
 };
 
